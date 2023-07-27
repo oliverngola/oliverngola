@@ -13,7 +13,7 @@
 
 #### Follow me
 [![Linkedin: oliveirangola](https://img.shields.io/badge/-oliveirangola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveirangola/)](https://www.linkedin.com/in/oliveirangola/)
-[![Twitter: oliveirangola](https://img.shields.io/twitter/follow/oliveirangola?style=social)](https://twitter.com/oliveirangola)
+[![Twitter: oliverngola](https://img.shields.io/twitter/follow/oliverngola?style=social)](https://twitter.com/oliverngola)
 [![GitHub oliverngola](https://img.shields.io/github/followers/oliverngola?label=follow&style=social)](https://github.com/oliverngola)
 
 **Languages and Tools:**  
