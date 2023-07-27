@@ -6,7 +6,7 @@
 - 🌱 Javascript (React/Node), Python
 - ✏️ I’m currently learning Nodejs & React
 - 💬 Ask me about code, house music and laptops
-- 📫  How to reach me: [Twitter](https://twitter.com/oliveirangola)
+- 📫  How to reach me: [Instagram](https://instagram.com/oliverngola)
 - ⚡ Fun fact: I am always listenning musics
 
 <!--- 📖  Currently learning: JavaScript -->
